@@ -1,2 +1,2 @@
 # kyclark-solutions
-working through Command Line Ruust by Ken Youens-Clark
+working through Command Line Rust by Ken Youens-Clark
